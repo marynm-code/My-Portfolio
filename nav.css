@@ -1,0 +1,23 @@
+.ul {
+    background-color: blue;
+    text-align: justify;
+}
+body {
+    background-color: AliceBlue;
+    max-width: 75em;
+    margin: 10 auto;
+  }
+  .navbar {
+    max-width: 75em;
+    position: fixed;
+    width: 100%;
+    padding: 4;
+    margin: 0px -2px 0px -2px;
+    
+  }
+  .navbar-items {
+    background-color: #afa9a9e8;
+    display: block;
+    position: relative;
+    height: 5em;
+  }
